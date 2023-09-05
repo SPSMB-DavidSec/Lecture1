@@ -11,6 +11,8 @@
 - Je na vstupu prvočíslo?
 - Vytvořit metodu, která na vstupu má MIN a MAX a musí vrátit náhodné číslo v tomto intervalu
 
+### Vytvořte testy pro jednotlivé metody pomocí Junit- 5 (volitelné)
+[:bulb:	Hint](https://www.baeldung.com/parameterized-tests-junit-5)
 
 ## POZN.
 
